@@ -10,3 +10,5 @@ Test 3
 DIFFERENT THING T2
 
 [test](test.py#L3)
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
