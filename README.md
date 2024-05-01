@@ -13,6 +13,3 @@ DIFFERENT THING T2
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 hello <p><span class="math inline">\(a\leq b\)</span></p> world 1
-
-new test
-new test 2
